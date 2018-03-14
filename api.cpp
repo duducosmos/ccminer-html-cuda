@@ -14,6 +14,7 @@
 # define  _WINSOCK_DEPRECATED_NO_WARNINGS
 # include <WS2tcpip.h>
 #endif
+#define nullptr NULL
 
 #include <stdio.h>
 #include <ctype.h>
